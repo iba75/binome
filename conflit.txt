@@ -1,1 +1,3 @@
 Ceci est un fichier pour le conflit.
+
+Modification par Fred à 15h43
