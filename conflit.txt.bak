@@ -1,10 +1,13 @@
 Ceci est un fichier pour le conflit.
 
 Modification par Fred à 15h43
-<<<<<<< HEAD
-
-dsdsds
-=======
 Modification par Fred à 16h02
 Modification par Fred à 16h03
->>>>>>> 67b5962a2f9ea9f4a022efa3576cb20371195b51
+<<<<<<< HEAD
+Modification par Fred à 16h11
+
+Modification par Fred à 16h17
+=======
+
+Test conflit pour Fred
+>>>>>>> 290f788092bc67b74757bf06508784f19c3a5bf5
