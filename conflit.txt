@@ -2,3 +2,4 @@ Ceci est un fichier pour le conflit.
 
 Modification par Fred à 15h43
 Modification par Fred à 16h02
+Modification par Fred à 16h03
